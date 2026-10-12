@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 description 'AICORE_BusJob'
-repository 'https://github.com/0error-scripts/aicore_busjob'
+repository 'https://github.com/aicore-fivem/aicore_busjob'
 version '1.0.0'
 
 ox_lib 'locale'
